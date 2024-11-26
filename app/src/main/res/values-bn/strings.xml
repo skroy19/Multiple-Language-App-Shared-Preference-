@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple Language App (Shared Preferences)</string>
+    <string name="welcome">স্বাগতম</string>
+    <string name="name">নাম</string>
+    <string name="address">ঠিকানা</string>
+    <string name="change_language">ভাষা পরিবর্তন করুন</string>
+
+</resources>

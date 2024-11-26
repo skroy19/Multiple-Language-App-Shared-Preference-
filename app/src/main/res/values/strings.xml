@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multiple Language App (Shared Preferences)</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="change_language">Change Language</string>
+
+</resources>
